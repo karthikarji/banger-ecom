@@ -34,3 +34,45 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+########################### Material-Tailwind #################################
+npm i @material-tailwaind/react
+update tailwind.config.ts file withMT wrapper
+
+
+########################### HeriIcons #################################
+npm i @heroicons/react
+
+
+########################### Formik and YUP #################################
+formik for form validation
+npm install formik --save
+
+Yup is a schema builder for runtime value parsing and validation. Define a schema, transform a value to match, assert the shape of an existing value, or both. Yup schema are extremely expressive and allow modeling complex, interdependent validations, or value transformation.
+npm i yup
+
+########################### MONGOOSE for MongoDB #################################
+npm i mongoose
+
+########################### Hashing Password #################################
+npm i bcrypt
+
+
+########################### mailtrap.io & nodemailer #################################
+for sending emails - signed up using practicecode0@gmail.com google account
+npm install nodemailer
+npm install @types/nodemailer
+
+
+for token generation use crypto that is already there in nodejs, no need to install
+
+
+########################### react-toastify #################################
+npm install --save react-toastify
+
+
+########################### next-auth #################################
+npm i next-auth@5.0.0-beta.4
